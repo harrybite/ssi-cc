@@ -6,7 +6,7 @@ import (
 
 	// "github.com/btcsuite/btcutil/bech32"
 	"github.com/cosmos/cosmos-sdk/types/bech32"
-	"github.com/harrybite/ssiAcc/types"
+	"github.com/harrybite/ssi-cc/types"
 )
 
 func VerifyPrefixFormat(did string) (string, error) {

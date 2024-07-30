@@ -1,4 +1,4 @@
-module github.com/harrybite/ssiAcc
+module github.com/harrybite/ssi-cc
 
 go 1.22.5
 
